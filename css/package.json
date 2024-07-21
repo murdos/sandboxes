@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "quixote": "^0.12.5"
+    "quixote": "^0.15.0"
   }
 }
